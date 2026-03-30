@@ -1,5 +1,3 @@
-This lab simulates a real-world network scenario using VLAN segmentation and inter-VLAN routing.
-
 # VLAN & Inter-VLAN Routing Lab
 
 ## Overview
