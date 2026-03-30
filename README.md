@@ -10,7 +10,7 @@ This project demonstrates VLAN configuration and inter-VLAN routing using Cisco 
 - Implement inter-VLAN routing (Router-on-a-Stick)
 
 ## Topology
-VLAN & Inter-VLAN Routing topology
+![Topology](vlan-topology.png)
 
 ## Configuration Steps
 - Configured the switch interfaces connected to PCs as access ports in the correct VLAN.
