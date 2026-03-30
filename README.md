@@ -20,6 +20,17 @@ This project demonstrates VLAN configuration and inter-VLAN routing using Cisco 
 - Configured the connection between SW2 and R1 using 'router on a stick'.
 - Assigned the last usable address of each subnet to R1's subinterfaces.
 
+## Sample Configuration
+
+### Switch
+show vlan brief
+show interfaces trunk
+
+### Router
+interface g0/0.10
+encapsulation dot1Q 10
+ip address 192.168.10.1 255.255.255.0
+
 ## Verification
 - Verified VLANs using: `show vlan brief`
 - Verified trunk using: `show interfaces trunk`
