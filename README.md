@@ -1,3 +1,5 @@
+This lab simulates a real-world network scenario using VLAN segmentation and inter-VLAN routing.
+
 # VLAN & Inter-VLAN Routing Lab
 
 ## Overview
@@ -11,6 +13,7 @@ This project demonstrates VLAN configuration and inter-VLAN routing using Cisco 
 
 ## Topology
 ![Topology](topology.png)
+
 
 ## Configuration Steps
 - Configured the switch interfaces connected to PCs as access ports in the correct VLAN.
@@ -29,3 +32,10 @@ This project demonstrates VLAN configuration and inter-VLAN routing using Cisco 
 - VLANs
 - Inter-VLAN Routing
 - 802.1Q Trunking
+
+## Skills Demonstrated
+- VLAN Configuration
+- Inter-VLAN Routing
+- Trunking (802.1Q)
+- Cisco CLI Configuration
+- Network Troubleshooting
