@@ -37,3 +37,6 @@ This project demonstrates VLAN configuration and inter-VLAN routing using Cisco 
 - Trunking (802.1Q)
 - Cisco CLI Configuration
 - Network Troubleshooting
+
+  ## Author
+Mustafa Albazzaz – CCNA Certified
